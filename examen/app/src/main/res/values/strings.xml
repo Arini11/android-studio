@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="nom">Nom:&#160;</string>
+    <string name="planeta">Planeta:&#160;</string>
+    <string name="btnList">ListView</string>
+    <string name="btnCard">CardView</string>
+    <string name="btnRecycler">RecyclerView</string>
+    <string name="btnGet">Click</string>
+    <string name="noInternet">No hi ha connexió</string>
+
+    <string-array name="urls">
+        <item>Indian Wells Masters</item>
+        <item>Miami Open</item>
+        <item>Monte-Carlo Masters</item>
+        <item>Mutua Madrid Open</item>
+        <item>Italian Open</item>
+        <item>Canadian Open</item>
+        <item>Western &amp; Southern Open</item>
+        <item>Rolex Shanghai Masters</item>
+        <item>Rolex Paris Masters</item>
+    </string-array>
+    <string-array name="urlsValues">
+        <item>iwm</item>
+        <item>miami</item>
+        <item>montecarlo</item>
+        <item>madrid</item>
+        <item>italian</item>
+        <item>canadian</item>
+        <item>wsopen</item>
+        <item>shanghai</item>
+        <item>paris</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
